@@ -1,5 +1,10 @@
 *.out
 *.in
+<<<<<<< HEAD
 in
 .vscode/
 *.swp
+=======
+.vscode/
+*.swp
+>>>>>>> 70b7d09700f3b1f76057c65e337130f61844be34
